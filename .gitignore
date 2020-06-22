@@ -3,6 +3,8 @@ annotations/
 results/
 external/
 .DS_Store
+pynb_checkpoints
+__pycache__
 
 MatlabAPI/analyze*/
 MatlabAPI/visualize*/
